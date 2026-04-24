@@ -3,28 +3,12 @@
 
 **Full‑Stack Developer | Open‑Source Enthusiast | Coffee ☕ lover**
 
-- 🔭 I’m currently working on [Project X](https://github.com/your‑handle/project‑x) – a real‑time data pipeline.
 - 🌱 I’m learning **Rust** and **WebAssembly**.
 - 💬 Ask me about **Python, React, Kubernetes, or CI/CD**.
 - ⚡ Fun fact: I can type > 130 WPM (with 0 typos most of the time).
 
 ---
 
-
-## 📂 Featured Repositories
-
-<p align="left">
-  <a href="https://github.com/codename-karun/awesome‑cli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codename-karun&repo=awesome‑cli&theme=radical" />
-  </a>
-  <a href="https://github.com/codename-karun/ml‑pipeline">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codename‑karun&repo=ml‑pipeline&theme=radical" />
-  </a>
-</p>
-
-*See all repositories → [🔎](https://github.com/codename‑karun?tab=repositories)*
-
----
 
 ## 🏆 Achievements & Badges
 
